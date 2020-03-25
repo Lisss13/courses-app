@@ -4,3 +4,5 @@
     - Tests
     - Users
     - TestResult
+    - Questions
+    - Answers
